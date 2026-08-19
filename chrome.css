@@ -29,7 +29,7 @@ a{color:inherit;text-decoration:none}
 button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 h1,h2,h3,h4{font-family:var(--ds-font-display);line-height:1.06;letter-spacing:-.015em;color:var(--ds-ink-heading);margin:0}
 p{margin:0}
-img{max-width:100%;display:block}
+img{max-width:100%;display:block;height:auto}
 
 /* keyboard-focus ring (WCAG 2.4.7 Focus Visible) — a GLOBAL role-based indicator painted on every
    interactive surface the chrome exposes. Preserves the source ring look (teal outline, 3px offset,
